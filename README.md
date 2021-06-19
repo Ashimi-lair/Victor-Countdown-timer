@@ -1,8 +1,10 @@
 ##  Countdown Timer
 
-The Countdown Timer from Wes Bos
+The Countdown Timer from Wes Bos JavaScript 30 course
 
 ### Contributors 
--Sonde victor
+-Sonde Victor
 
--Jolaoso oluwatobiloba
+-Jolaoso Oluwatobiloba
+
+Thanks To Mr Samuel Olaegbe and Mr Abdulwahab Ashimi for their mentorship.
